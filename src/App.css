@@ -1,0 +1,15 @@
+.question{
+   box-shadow: 1px 1px 1px 1px;
+   border: 2px;
+   padding: 8px;
+   margin-top: 5px;
+}
+
+.maindiv{
+    border: 1px;
+    box-shadow: 1px 1px 1px 1px;
+}
+
+.myquestion1{
+    border-radius: 50px;
+}
